@@ -104,3 +104,5 @@ while True:
         print(ans)
         pprint.pprint(li_commands)
         t2s(ans)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/92096587/150343232-c64141ca-8738-4a63-b180-9a03f6354217.png)
